@@ -1,0 +1,10 @@
+.shop-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.shop-section > div {
+  min-width: 450px;
+}
